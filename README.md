@@ -210,7 +210,7 @@ Take this section as food for thought of future use cases.
 ### FastApi
 
 -   [ ] [FastApi Tutorial](https://youtu.be/SORiTsvnU28?si=cnRsmt-alLtkByn7)
-        [Further Tutorials (FastApi Docs)](https://fastapi.tiangolo.com/tutorial/#advanced-user-guide)
+-   [ ] [Further Tutorials (FastApi Docs)](https://fastapi.tiangolo.com/tutorial/#advanced-user-guide)
 
 ## RAG Project
 
