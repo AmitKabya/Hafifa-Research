@@ -2,8 +2,6 @@
 
 ## Python
 
----
-
 In this section, we will base some basic knowledge about python.
 
 ### Best Practices
@@ -33,8 +31,6 @@ Getting to know numpy and its functions
 
 ## Git
 
----
-
 We will use git for history and version management.
 This is a must have tool in your arsenal!
 
@@ -42,8 +38,6 @@ This is a must have tool in your arsenal!
 -   [ ] [Git immersion - (1-9, 24-26, 28-35)](https://gitimmersion.com)
 
 ## TS Setup
-
----
 
 Welcome to the TS (Top Secret) Eco System:)
 We will set up your computer to be ready to work for the next project - that will be developed inside the TS.
@@ -74,8 +68,6 @@ Now that you have access to the CTS go over some guides in _Confluence_.
 -> Follow the "Getting Started" & "Working in CTS" Guides
 
 ## NLP
-
----
 
 This section will give you a brief about our field of work - NLP.
 This section is a combination of lectures and papers.
@@ -120,8 +112,6 @@ If you have any spare time, here are some papers that are "nice to have".
 
 ## Retrieval and Embedding
 
----
-
 Techniques used to for efficient retrieval in large scale data environments. (no need to understand down the smallest detail)
 
 -   [ ] [Understanding similarity or semantic search and vector databases](https://medium.com/@sudhiryelikar/understanding-similarity-or-semantic-search-and-vector-databases-5f9a5ba98acb)
@@ -130,8 +120,6 @@ Techniques used to for efficient retrieval in large scale data environments. (no
 -   [ ] [Understanding Hierarchical Navigable Small Worlds (HNSW)](https://www.datastax.com/guides/hierarchical-navigable-small-worlds)
 
 ## LLM basics
-
----
 
 Practical courses about prompt engineering your LLM, and frameworks in python (such as LangChain) that make it simpler to use LLMs for retrieval and chatbot purposes.
 
@@ -154,8 +142,6 @@ Read some of the following metrics for evaluating LLM performances
 
 ## Prompt Engineering
 
----
-
 ### Theory
 
 [The Prompt Engineering Guide](https://www.promptingguide.ai/) is a project by [DAIR.AI](https://github.com/dair-ai). It aims to educate researchers and practitioners about prompt engineering.
@@ -169,8 +155,6 @@ This guide will be our bible for prompt engineering and more. Read it thoroughly
 -   [ ] [LangChain](https://python.langchain.com/docs/introduction/)
 
 ## RAG
-
----
 
 Practical courses about RAG.
 
@@ -199,13 +183,9 @@ Read some of the following metrics for evaluating RAG performances
 
 ### EDA & Error Analysis
 
----
-
 -   [ ] [Kaggle EDA and EA notebook](https://www.kaggle.com/code/egazakharenko/quality-metrics-and-error-analysis-in-ml-guide)
 
 ## MLOps
-
----
 
 ![alt text](Images/mlops_img.png)
 
@@ -234,8 +214,6 @@ We might want to perform unit testing to our LLM pipelines and RAGs. Here is a g
         Take this section as food for thought of future use cases.
 
 ## RAG Project
-
----
 
 Congratulations!
 You have come to the final project of the Hafifa.
