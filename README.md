@@ -49,9 +49,9 @@ Use the following user guide:
 Here is a phone number of Campus: 03-675767
 Tell them you are formatting a new computer of clearance TOP SECRET, and that this is your MAC address.
 
-![[Images\ts_setup1.jpg]]
+![alt text](Images/ts_setup1.jpg)
 
-![[Images\ts_setup2.jpg]]
+![alt text](Images/ts_setup2.jpg)
 
 ### On Boarding - CTS
 
@@ -165,7 +165,7 @@ Take this section as food for thought of future use cases.
 
 ---
 
-![[Images.mlops_img.png]]
+![alt text](Images/mlops_img.png)
 
 ### Docker
 
