@@ -181,13 +181,11 @@ Read some of the following metrics for evaluating RAG performances
 
 \*\* Each framework has its own specialty. Currently, LlamaIndex works more in the RAG sections, but you might find other tools more suited to you in different RAG tasks.
 
-### Unit Testing
 
-We might want to perform unit testing to our LLM pipelines and RAGs. Here is a guide about
+### EDA & Error Analysis
 
--   [ ] [Unit Testing LLMs/RAG With DeepEval](https://docs.llamaindex.ai/en/stable/community/integrations/deepeval/#unit-testing-llmsrag-with-deepeval 'Permanent link').
+-   [ ] [Kaggle EDA and EA notebook](https://www.kaggle.com/code/egazakharenko/quality-metrics-and-error-analysis-in-ml-guide)
 
-Take this section as food for thought of future use cases.
 
 ## MLOps
 
@@ -195,9 +193,6 @@ Take this section as food for thought of future use cases.
 
 -   [ ] [Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/)
 
-### EDA & Error Analysis
-
--   [ ] [Kaggle EDA and EA notebook](https://www.kaggle.com/code/egazakharenko/quality-metrics-and-error-analysis-in-ml-guide)
 
 ### Docker
 
@@ -205,12 +200,21 @@ Take this section as food for thought of future use cases.
 
 ### Triton
 
--   [ ] [Conceptual Guide](https://github.com/triton-inference-server/tutorials/tree/main/Conceptual_Guide)
+- [ ] [Deploying ML Models using Nvidia Triton Inference Server](https://medium.com/@siddharthashrestha/deploying-ml-models-using-nvidia-triton-inference-server-part-i-3d73be585dcd)
+- [ ] [Conceptual Guide - read Part_1 and Part_5 only](https://github.com/triton-inference-server/tutorials/tree/main/Conceptual_Guide)
 
 ### FastApi
 
 -   [ ] [FastApi Tutorial](https://youtu.be/SORiTsvnU28?si=cnRsmt-alLtkByn7)
 -   [ ] [Further Tutorials (FastApi Docs)](https://fastapi.tiangolo.com/tutorial/#advanced-user-guide)
+
+### Unit Testing
+
+We might want to perform unit testing to our LLM pipelines and RAGs. Here is a guide about
+
+-   [ ] [Unit Testing LLMs/RAG With DeepEval](https://docs.llamaindex.ai/en/stable/community/integrations/deepeval/#unit-testing-llmsrag-with-deepeval 'Permanent link').
+
+Take this section as food for thought of future use cases.
 
 ## RAG Project
 
