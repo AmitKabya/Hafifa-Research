@@ -199,7 +199,6 @@ Take this section as food for thought of future use cases.
 
 -   [ ] [Kaggle EDA and EA notebook](https://www.kaggle.com/code/egazakharenko/quality-metrics-and-error-analysis-in-ml-guide)
 
-
 ### Docker
 
 -   [ ] [Docker Tutorial](https://youtu.be/pTFZFxd4hOI?feature=shared)
@@ -213,7 +212,6 @@ Take this section as food for thought of future use cases.
 
 -   [ ] [FastApi Tutorial](https://youtu.be/SORiTsvnU28?si=cnRsmt-alLtkByn7)
 -   [ ] [Further Tutorials (FastApi Docs)](https://fastapi.tiangolo.com/tutorial/#advanced-user-guide)
-
 
 ## RAG Project
 
