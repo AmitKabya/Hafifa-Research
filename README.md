@@ -205,7 +205,8 @@ Take this section as food for thought of future use cases.
 
 ### Triton
 
--   [ ] [Conceptual Guide](https://github.com/triton-inference-server/tutorials/tree/main/Conceptual_Guide)
+- [ ] [Deploying ML Models using Nvidia Triton Inference Server](https://medium.com/@siddharthashrestha/deploying-ml-models-using-nvidia-triton-inference-server-part-i-3d73be585dcd)
+- [ ] [Conceptual Guide - read Part_1 and Part_5 only](https://github.com/triton-inference-server/tutorials/tree/main/Conceptual_Guide)
 
 ### FastApi
 
