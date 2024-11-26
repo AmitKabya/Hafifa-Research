@@ -181,17 +181,23 @@ Read some of the following metrics for evaluating RAG performances
 
 \*\* Each framework has its own specialty. Currently, LlamaIndex works more in the RAG sections, but you might find other tools more suited to you in different RAG tasks.
 
+### Unit Testing
 
-### EDA & Error Analysis
+We might want to perform unit testing to our LLM pipelines and RAGs. Here is a guide about
 
--   [ ] [Kaggle EDA and EA notebook](https://www.kaggle.com/code/egazakharenko/quality-metrics-and-error-analysis-in-ml-guide)
+-   [ ] [Unit Testing LLMs/RAG With DeepEval](https://docs.llamaindex.ai/en/stable/community/integrations/deepeval/#unit-testing-llmsrag-with-deepeval 'Permanent link').
 
+Take this section as food for thought of future use cases.
 
 ## MLOps
 
 ![alt text](Images/mlops_img.png)
 
 -   [ ] [Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/)
+
+### EDA & Error Analysis
+
+-   [ ] [Kaggle EDA and EA notebook](https://www.kaggle.com/code/egazakharenko/quality-metrics-and-error-analysis-in-ml-guide)
 
 
 ### Docker
@@ -208,13 +214,6 @@ Read some of the following metrics for evaluating RAG performances
 -   [ ] [FastApi Tutorial](https://youtu.be/SORiTsvnU28?si=cnRsmt-alLtkByn7)
 -   [ ] [Further Tutorials (FastApi Docs)](https://fastapi.tiangolo.com/tutorial/#advanced-user-guide)
 
-### Unit Testing
-
-We might want to perform unit testing to our LLM pipelines and RAGs. Here is a guide about
-
--   [ ] [Unit Testing LLMs/RAG With DeepEval](https://docs.llamaindex.ai/en/stable/community/integrations/deepeval/#unit-testing-llmsrag-with-deepeval 'Permanent link').
-
-Take this section as food for thought of future use cases.
 
 ## RAG Project
 
