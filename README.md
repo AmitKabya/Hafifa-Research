@@ -132,7 +132,6 @@ Practical courses about prompt engineering your LLM, and frameworks in python (s
 -   [ ] [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction)
 -   [ ] [LangChain for LLM Application Development](https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction)
 -   [ ] [Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain/lesson/1/introduction)
--   [ ] [DSPy vs. LangChain](https://qdrant.tech/blog/dspy-vs-langchain/)
 
 ### LLM Evaluation
 
@@ -152,7 +151,9 @@ This guide will be our bible for prompt engineering and more. Read it thoroughly
 ### Practice - Frameworks
 
 -   [ ] [DSPy](https://dspy.ai/)
+- [ ] [DSPy video tutorial](https://youtu.be/_ROckQHGHsU?si=Z6Pi90KnNd2Vxk15)
 -   [ ] [LangChain](https://python.langchain.com/docs/introduction/)
+- [ ] [DSPy vs. LangChain](https://qdrant.tech/blog/dspy-vs-langchain/)
 
 ## RAG
 
